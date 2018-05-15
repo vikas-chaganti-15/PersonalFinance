@@ -1,2 +1,2 @@
 # PersonalFinance
-should contain my personal finance related scripts
+repository for personal finance related scripts
